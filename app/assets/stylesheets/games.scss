@@ -1,0 +1,35 @@
+// Place all the styles related to the Games controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+.letters{
+  display: flex;
+  justify-content: center;
+}
+
+p{
+  margin: 0 20px;
+  padding: 10px 10px;
+  background-color: #3498dc;
+  border-radius: 4px;
+  font-size: 35px;
+}
+
+.formu{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 50px;
+}
+
+.formulaire{
+  width: 650px;
+  height: 35px;
+  border-radius: 4px 0 0 4px;
+}
+
+.button{
+  height: 42px;
+  border-radius: 0 4px 4px 0;
+  margin-left: -5px;
+}
